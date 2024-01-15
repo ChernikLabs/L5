@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Имя</string>
+    <string name="Old">Возраст</string>
+    <string name="work">Специализация</string>
+</resources>
